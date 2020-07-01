@@ -10,10 +10,13 @@ def get_md_info(path, type_name):
     data = ''.join(data)
 
     for item in part_row_content[type_name]:
+        if item == 'title':
+            continue
+
         try:
             info[item] = re.search(r'###\s' + show_name[item].replace(' ', '\s') + r'([^#]*)', data).group(1)
         except Exception as e:
-            print(item, e)
+            print('%s: format is not correct. Exception is "%s".' % (path, e))
             info[item] = ''
 
     info['title'] = re.search(r'#\s([^#{1,3}]*)#', data).group(1)
@@ -53,6 +56,9 @@ def generate(type_name):
     print(part_head[type_name], file=readme)
     
     for item in os.listdir('./' + type_name):
+        if item.split('.')[-1] != 'md' or item == 'template.md':
+            continue
+
         temp_path = os.path.join('./' + type_name, item)
         info = get_md_info(temp_path, type_name)
 
@@ -62,7 +68,10 @@ def generate(type_name):
         temp_row = '| ' + item.split('.')[0]
         for i in part_row_content[type_name]:
             if 'link' in i:
-                link_col += ' [[%s](%s)]' % (i.split('_')[0], info[i])
+                if info[i] == '':
+                    link_col += ' [%s]' % (i.split('_')[0])
+                else:
+                    link_col += ' [[%s](%s)]' % (i.split('_')[0], info[i])
             else:
                 temp_row += (' | ' + info[i])
         
@@ -81,3 +90,10 @@ generate('paper')
 
 print('\n## 🎯Dataset\n', file=readme)
 generate('dataset')
+
+# add how to contribution to the bottom
+
+print('\n', file=readme)
+f = open('contribute.md', 'r', encoding='utf-8')
+for line in f.readlines():
+    print(line, end='', file=readme)

@@ -1,4 +1,4 @@
-# ManiGAN: Text-Guided Image 
+# ManiGAN: Text-Guided Image
 
 ## Brief Information
 
@@ -14,7 +14,7 @@ CVPR 2020
 
 https://arxiv.org/abs/1912.06203  
 
-### Project Link 
+### Project Link
 
 https://github.com/mrlibw/ManiGAN  
 
