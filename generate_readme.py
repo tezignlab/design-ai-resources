@@ -5,8 +5,8 @@ import re
 def get_md_info(path, type_name):
     info = {}
     f = open(path, 'r', encoding='utf-8')
-    data = f.readlines()
-    data = [item.strip() for item in data]
+    raw_data = f.readlines()
+    data = [item.strip() for item in raw_data]
     data = ''.join(data)
 
     for item in part_row_content[type_name]:
@@ -19,7 +19,7 @@ def get_md_info(path, type_name):
             print('%s: format is not correct. Exception is "%s".' % (path, e))
             info[item] = ''
 
-    info['title'] = re.search(r'#\s([^#{1,3}]*)#', data).group(1)
+    info['title'] = raw_data[0][2:-1]
 
     return info
 
@@ -29,17 +29,17 @@ readme = open('README.md', 'w', encoding='utf-8')
 part_head = {
     'paper': '| Name | Title | Description | Publication | Links |  \n| --- | --- | --- | --- | --- |  ',
     'dataset': '| Name | Title | Description | Scale | Annotation | Links |  \n| --- | --- | --- | --- | --- | --- |  ',
-    'event': '',
-    'company': '',
-    'repo': ''
+    'event': '| Name | Title | Description | Links | \n| --- | --- | --- | --- |  ',
+    'organization': '| Name | Description | Links | \n| --- | --- | --- |  ',
+    'repo': '| Name | Description | Links | \n| --- | --- | --- |  '
 }
 
 part_row_content = {
     'paper': ['title', 'desc', 'pub', 'paper_link', 'project_link'],
     'dataset': ['title', 'desc', 'scale', 'annotation', 'paper_link', 'project_link'],
-    'event': [],
-    'company': [],
-    'repo': []
+    'event': ['title', 'desc', 'event_link'],
+    'organization': ['desc', 'organization_link'],
+    'repo': ['desc', 'repo_link']
 }
 
 show_name = {
@@ -49,7 +49,10 @@ show_name = {
     'paper_link': 'Paper Link',
     'project_link': 'Project Link',
     'scale': 'Scale',
-    'annotation': 'Annotation'
+    'annotation': 'Annotation',
+    'event_link': 'Event Link',
+    'repo_link': 'Repo Link',
+    'organization_link': 'Organization Link'
 }
 
 def generate(type_name):
@@ -62,10 +65,8 @@ def generate(type_name):
         temp_path = os.path.join('./' + type_name, item)
         info = get_md_info(temp_path, type_name)
 
-        non_link_num = 0
-
         link_col = ''
-        temp_row = '| ' + item.split('.')[0]
+        temp_row = '| ' + item[:-3]
         for i in part_row_content[type_name]:
             if 'link' in i:
                 if info[i] == '':
@@ -75,7 +76,8 @@ def generate(type_name):
             else:
                 temp_row += (' | ' + info[i])
         
-        link_col += ' [[note](...)]'
+        # TODO: add the link of note
+        link_col += ' [[note]()]'
         temp_row += ' | ' + link_col + ' |  '
 
         print(temp_row, file=readme)
@@ -83,7 +85,7 @@ def generate(type_name):
 
 # start of generation
 
-print('# AI Design Papers\n', file=readme)
+print('# ✔AI Design Papers\n', file=readme)
 
 print('## 📃Paper\n', file=readme)
 generate('paper')
@@ -91,6 +93,16 @@ generate('paper')
 print('\n## 🎯Dataset\n', file=readme)
 generate('dataset')
 
+print('\n## 🎈Event\n', file=readme)
+generate('event')
+
+print('\n## 🏢Organization\n', file=readme)
+generate('organization')
+
+print('\n## 📂Repo\n', file=readme)
+generate('repo')
+
+print('---\n', file=readme)
 # add how to contribution to the bottom
 
 print('\n', file=readme)
