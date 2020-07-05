@@ -2,7 +2,7 @@
 
 Curated Design + AI resources such as papers, datasets, events, companies, etc. Papers and events are sorted by time (newest first). 
 
-See the [contribution guide](contribution-guide.md) if you want to add contents.
+See the [contribution guide](contribute.md) if you want to add contents.
 
 ## 📃 Papers
 
@@ -34,4 +34,10 @@ See the [contribution guide](contribution-guide.md) if you want to add contents.
 | Name | Description | Links | 
 | --- | --- | --- |  
 | ColorGram | colorgram.py is a Python library that lets you extract colors from images. Compared to other libraries, the colorgram algorithm's results are more intense. |  [[repo](https://github.com/obskyr/colorgram.py)] |  
----
+
+
+## :orange_book: Books
+
+| Name | Authors | Links | 
+| --- | --- | --- |  
+| Grid systems in graphic design | Josef Müller-Brockmann |  [[amazon](https://www.amazon.com/Grid-systems-graphic-design-communication/dp/3721201450)] |  
