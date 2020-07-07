@@ -15,7 +15,7 @@ Clone your repo to local.
 git clone %URL_OF_YOUR_REPO
 ```
 
-Add your notes.  
+Add your notes in `README.md` directly.  
 
 Push your updates to your repo.  
 
