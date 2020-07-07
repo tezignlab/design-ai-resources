@@ -22,6 +22,7 @@ See the [contribution guide](contribute.md) if you want to add contents.
 | Name | Title | Links |
 | --- | --- | --- | 
 | CVPR Workshop | CVPR Workshop on Computer Vision for Fashion, Art and Design | [[2020](https://sites.google.com/view/cvcreative2020) ], [[2019](TBA)]| 
+| NIPS Workshop | NeurIPS Workshop on Machine Learning for Creativity and Design | [[2019](https://neurips2019creativity.github.io/) ], [[2018](https://nips2018creativity.github.io/)], [[2017](https://nips2017creativity.github.io/)]|  
 
 ## 🏢 Companies
 
