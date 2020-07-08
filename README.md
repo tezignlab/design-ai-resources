@@ -17,7 +17,9 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 
 | Name | Title | Description | Scale | Annotation | Links |  
 | --- | --- | --- | --- | --- | --- |  
-| AVA | AVA: A large-scale database for aesthetic visual analysis | 一个大规模图像美学数据集。 | 250,000+ | aesthetic scores for each image, semantic labels for over 60 categories as well as labels related to photographic style |  [[paper](http://refbase.cvc.uab.es/files/MMP2012a.pdf)] [download] |  
+| AVA | AVA: A large-scale database for aesthetic visual analysis | 大规模图像美学数据集 | 250,000+ | Aesthetics, content, style |  [[paper](http://refbase.cvc.uab.es/files/MMP2012a.pdf)] [download] |  
+| AADB | Photo aesthetics ranking network with attributes and content adaptation | 大规模图像美学评价及属性数据集 | 10,000+ | Aesthetics, Attributes | [[paper](https://arxiv.org/pdf/1606.01621.pdf)] [[download](https://github.com/aimerykong/deepImageAestheticsAnalysis)] |
+| BAM | BAM! The Behance Artistic Media Dataset for Recognition Beyond Photography | 基于Behance图像的大规模当代艺术作品数据集 | 6,500,0000+ | Emotions, media, objects | [[paper](https://arxiv.org/pdf/1704.08614.pdf)] [[download](https://bam-dataset.org/)] |
 
 ## 🎈 Events
 
