@@ -4,7 +4,7 @@
 
 ### Description
 
-Uses GANs to study cognitive properties like memorability, aesthetics, and emotional valence. This way can make an image more memorable.
+使用GANs来研究认知特性，如记忆、美学和情感效价。这种方法可以让图片更容易记住。
 
 ### Publication
 
