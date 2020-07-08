@@ -16,6 +16,7 @@ git clone %URL_OF_YOUR_REPO
 ```
 
 Add your notes in `README.md` directly.  
+>Attention: The latest published item should be ranked first.  
 
 Push your updates to your repo.  
 
