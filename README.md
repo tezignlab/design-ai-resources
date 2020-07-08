@@ -10,6 +10,8 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 | --- | --- | --- | --- | --- |  
 | LayoutGAN | LayoutGAN: Generating Graphic Layouts with Wireframe Discriminators | 提出了一个可以生成Layout的GAN模型。 | ICLR 2019 |  [[paper](https://arxiv.org/pdf/1901.06767.pdf)] [code] |  
 | ManiGAN | ManiGAN: Text-Guided Image | 用文字来指引图像的修改。 | CVPR 2020 |  [[paper](https://arxiv.org/abs/1912.06203)] [[code](https://github.com/mrlibw/ManiGAN)]|  
+| GANalyze | GANalyze: Toward Visual Definitions of Cognitive Image Properties | 使用GANs来研究认知特性，如记忆、美学和情感效价。这种方法可以让图片更容易记住。 | MIT Computer Science and Artificial Intelligence Laboratory |  [[paper](http://ganalyze.csail.mit.edu/)] [[code](https://github.com/LoreGoetschalckx/GANalyze)]|  
+| BigGANs | Large Scale GAN Trainning for High Fidelity Natural Image Synthesis  | 使用GAN生成高分辨率图像 | ICLR 2019 |  [[paper](https://arxiv.org/pdf/1809.11096.pdf)] [[code](https://artbreeder.com/browse)]|  
 
 ## 🎯 Datasets
 
