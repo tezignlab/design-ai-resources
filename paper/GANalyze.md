@@ -8,11 +8,11 @@
 
 ### Publication
 
-MIT Computer Science and Artificial Intelligence Laboratory
+ICCV 2019
 
 ### Paper Link
 
-http://ganalyze.csail.mit.edu/ 
+https://openaccess.thecvf.com/content_ICCV_2019/papers/Goetschalckx_GANalyze_Toward_Visual_Definitions_of_Cognitive_Image_Properties_ICCV_2019_paper.pdf
 
 ### Project Link
 

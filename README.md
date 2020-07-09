@@ -15,7 +15,7 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 | ManiGAN | ManiGAN: Text-Guided Image | CVPR 2020 |  [paper](https://arxiv.org/abs/1912.06203) [code](https://github.com/mrlibw/ManiGAN)|  
 | LayoutGAN | LayoutGAN: Generating Graphic Layouts with Wireframe Discriminators | ICLR 2019 |  [paper](https://arxiv.org/pdf/1901.06767.pdf) code |  
 | Enabling Hyper-Personalisation | Enabling Hyper-Personalisation: Automated Ad Creative Generation and Ranking for Fashion e-Commerce  | [recsysXfashion’19](https://zalandoresearch.github.io/fashionxrecsys/) | [paper](https://arxiv.org/pdf/1908.10139.pdf) |  
-| GANalyze | GANalyze: Toward Visual Definitions of Cognitive Image Properties | MIT Computer Science and Artificial Intelligence Laboratory 2019 |  [paper](http://ganalyze.csail.mit.edu/) [code](https://github.com/LoreGoetschalckx/GANalyze)|  
+| GANalyze | GANalyze: Toward Visual Definitions of Cognitive Image Properties | ICCV 2019 | [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Goetschalckx_GANalyze_Toward_Visual_Definitions_of_Cognitive_Image_Properties_ICCV_2019_paper.pdf) [code](https://github.com/LoreGoetschalckx/GANalyze) |  
 | BigGANs | Large Scale GAN Trainning for High Fidelity Natural Image Synthesis | ICLR 2019 |  [paper](https://arxiv.org/pdf/1809.11096.pdf) [code](https://artbreeder.com/browse)|  
 |  | Exemplar based experience transfer | IUI 2019 | [paper](https://dl.acm.org/doi/10.1145/3301275.3302300) |  
 |  | Graphic Narrative with Interactive Stylization Design | 2017 | [paper](https://arxiv.org/pdf/1712.06654.pdf) |  
