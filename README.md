@@ -42,8 +42,9 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 
 | Name | Description | Found | Links |
 | --- | --- | --- | --- |
-| [Inmagine](https://www.inmagine.com/) | Inmagine is a creative ecosystem encompassing various creative assets and business models. It is on a mission to make design easy for everyone by using artificial intelligence. [Design.ai](https://designs.ai/en) is one among its creative ecosystem who provide AI powered tools.  | 2001 | [news](https://www.techinasia.com/malaysian-husband-wife-bootstrapped-worlds-top-stock-image-players) |
 | [facet.ai](https://facet.ai/) | Facet is a content-aware image editor for crafting stunning visual stories. | 2017 | [blog](https://medium.com/facet-ai) |
+| [Inmagine](https://www.inmagine.com/) | Inmagine is a creative ecosystem encompassing various creative assets and business models. It is on a mission to make design easy for everyone by using artificial intelligence. [Design.ai](https://designs.ai/en) is one among its creative ecosystem who provide AI powered tools.  | 2001 | [news](https://www.techinasia.com/malaysian-husband-wife-bootstrapped-worlds-top-stock-image-players) |
+
 
 
 
