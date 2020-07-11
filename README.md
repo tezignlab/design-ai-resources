@@ -8,6 +8,7 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 
 | Name | Title | Publication | Links |  
 | --- | --- | --- | --- |  
+|  | Category, process, and recommendation of design in an interactive evolutionary computation interior design experiment: a data-driven study | Cambridge University Press 2020 | [paper](https://doi.org/10.1017/S0890060420000050) | 
 |  | Beauty in artistic expressions through the eyes of networks and physics | Journal of the Royal Society Interface  2020 | [paper](https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2019.0686) |  
 |  | Predicting A Creator's Preferences In, and From, Interactive Generative Art | 2020 | [paper](https://arxiv.org/pdf/2003.01274.pdf) |  
 | Let Me Choose | Let Me Choose: From Verbal Context to Font Selection | ACL 2020 | [paper](https://arxiv.org/pdf/2005.01151.pdf) |  
@@ -42,12 +43,20 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 | Name | Description | Found | Links |
 | --- | --- | --- | --- |
 | [facet.ai](https://facet.ai/) | Facet is a content-aware image editor for crafting stunning visual stories. | 2017 | [blog](https://medium.com/facet-ai) |
+| [Inmagine](https://www.inmagine.com/) | Inmagine is a creative ecosystem encompassing various creative assets and business models. It is on a mission to make design easy for everyone by using artificial intelligence. [Design.ai](https://designs.ai/en) is one among its creative ecosystem who provide AI powered tools.  | 2001 | [news](https://www.techinasia.com/malaysian-husband-wife-bootstrapped-worlds-top-stock-image-players) |
+
+
+
+
 
 ## 📂 Projects
 
 | Name | Description | Links |  
 | --- | --- | --- |  
+| [IBM Design for AI](https://www.ibm.com/design/ai/) | This is a online course offered by IBM to teach people or a team how to apply design thinking to artificial intelligence.  | [Links](https://www.ibm.com/design/ai/)|
 | ColorGram | colorgram.py is a Python library that lets you extract colors from images. Compared to other libraries, the colorgram algorithm's results are more intense. |  [repo](https://github.com/obskyr/colorgram.py) |  
+
+
 
 
 ## :orange_book: Books
