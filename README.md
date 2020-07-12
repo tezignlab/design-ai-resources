@@ -9,7 +9,7 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 | Name | Title | Publication | Links |  
 | --- | --- | --- | --- |  
 | Bionic Face Sketch Generator | Bionic Face Sketch Generator | IEEE Transactions on Cybernetics 2020 | [paper](https://ieeexplore.ieee.org/document/8764602) |  
-| LayoutGAN | Attribute-conditioned Layout GAN for Automatic Graphic Design | IEEE Transactions on Visualization and Computer Graphics 2020 | [paper](https://www.researchgate.net/publication/341845193_Attribute-conditioned_Layout_GAN_for_Automatic_Graphic_Design) | 
+| Attribute-conditioned Layout GAN | Attribute-conditioned Layout GAN for Automatic Graphic Design | IEEE Transactions on Visualization and Computer Graphics 2020 | [paper](https://www.researchgate.net/publication/341845193_Attribute-conditioned_Layout_GAN_for_Automatic_Graphic_Design) | 
 |  | Category, process, and recommendation of design in an interactive evolutionary computation interior design experiment: a data-driven study | Cambridge University Press 2020 | [paper](https://doi.org/10.1017/S0890060420000050) |  
 |  | Beauty in artistic expressions through the eyes of networks and physics | Journal of the Royal Society Interface  2020 | [paper](https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2019.0686) |  
 |  | Predicting A Creator's Preferences In, and From, Interactive Generative Art | 2020 | [paper](https://arxiv.org/pdf/2003.01274.pdf) |  
