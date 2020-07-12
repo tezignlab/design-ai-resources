@@ -19,10 +19,13 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 | GANalyze | GANalyze: Toward Visual Definitions of Cognitive Image Properties | ICCV 2019 | [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Goetschalckx_GANalyze_Toward_Visual_Definitions_of_Cognitive_Image_Properties_ICCV_2019_paper.pdf) [code](https://github.com/LoreGoetschalckx/GANalyze) |  
 | BigGANs | Large Scale GAN Trainning for High Fidelity Natural Image Synthesis | ICLR 2019 |  [paper](https://arxiv.org/pdf/1809.11096.pdf) [code](https://artbreeder.com/browse)|  
 |  | Exemplar based experience transfer | IUI 2019 | [paper](https://dl.acm.org/doi/10.1145/3301275.3302300) |  
+| NLP  | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | Google (2018) | [paper](https://arxiv.org/abs/1810.04805?context=cs) |
 |  | Graphic Narrative with Interactive Stylization Design | 2017 | [paper](https://arxiv.org/pdf/1712.06654.pdf) |  
 | | Automatic Generation of Visual-Textual Presentation Layout | TOMM 2017 | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/a33-yang.pdf) |
 |  | Automatic Content-Aware Color and Tone Stylization | CVPR 2016 | [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lee_Automatic_Content-Aware_Color_CVPR_2016_paper.pdf) [code](https://github.com/jinyu121/ACACTS) |  
 |  | Automatic Design of Colors for Magazine Covers | Imaging and Printing in a Web 2.0 World IV 2013 | [paper](http://people.csail.mit.edu/jahanian/papers/Jahanian_ColorDesign_ADoMC_EI2013.pdf) |  
+| Word Representation | A Neural Probabilistic Language Model | Journal of Machine Learning Research(2003) | [paper](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) [code](https://www.jianshu.com/p/be242ed3f314) |
+
 
 ## 🎯 Datasets
 
