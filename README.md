@@ -8,6 +8,7 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 
 | Name | Title | Publication | Links |  
 | --- | --- | --- | --- |  
+|  | Let Me Choose: From Verbal Context to Font Selection | arXiv 2020 | [paper](https://arxiv.org/abs/2005.01151) |
 |  | Category, process, and recommendation of design in an interactive evolutionary computation interior design experiment: a data-driven study | Cambridge University Press 2020 | [paper](https://doi.org/10.1017/S0890060420000050) | 
 |  | Beauty in artistic expressions through the eyes of networks and physics | Journal of the Royal Society Interface  2020 | [paper](https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2019.0686) |  
 |  | Predicting A Creator's Preferences In, and From, Interactive Generative Art | 2020 | [paper](https://arxiv.org/pdf/2003.01274.pdf) |  
