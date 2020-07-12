@@ -8,6 +8,7 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 
 | Name | Title | Publication | Links |  
 | --- | --- | --- | --- |  
+| ood layout design frames  | Automating Layouts Bring Flipboard’s Magazine Style To Web And Windows |  | [paper](https://techcrunch.com/2014/03/23/layout-in-flipboard-for-web-and-windows/) | 
 |  | Category, process, and recommendation of design in an interactive evolutionary computation interior design experiment: a data-driven study | Cambridge University Press 2020 | [paper](https://doi.org/10.1017/S0890060420000050) | 
 |  | Beauty in artistic expressions through the eyes of networks and physics | Journal of the Royal Society Interface  2020 | [paper](https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2019.0686) |  
 |  | Predicting A Creator's Preferences In, and From, Interactive Generative Art | 2020 | [paper](https://arxiv.org/pdf/2003.01274.pdf) |  
