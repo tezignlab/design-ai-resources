@@ -1,6 +1,6 @@
 # About Design AI Resources
 
-Curated Design + AI resources such as papers, datasets, events, companies, etc. Papers and events are sorted by time (newest first). 
+Curated Design + AI resources such as papers, datasets, events, companies, etc. Papers and events are sorted by time (newest first).  
 
 See the [contribution guide](contribute-guide.md) if you want to add contents.
 
@@ -9,13 +9,14 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 | Title | Publication | Links |  
 | --- | --- | --- |  
 | Bionic Face Sketch Generator | IEEE Transactions on Cybernetics 2020 | [paper](https://ieeexplore.ieee.org/document/8764602) |  
-| Attribute-conditioned Layout GAN for Automatic Graphic Design | IEEE Transactions on Visualization and Computer Graphics 2020 | [paper](https://www.researchgate.net/publication/341845193_Attribute-conditioned_Layout_GAN_for_Automatic_Graphic_Design) | 
-| Category, process, and recommendation of design in an interactive evolutionary computation interior design experiment: a data-driven study | Cambridge University Press 2020 | [paper](https://doi.org/10.1017/S0890060420000050) | 
+| Attribute-conditioned Layout GAN for Automatic Graphic Design | IEEE Transactions on Visualization and Computer Graphics 2020 | [paper](https://www.researchgate.net/publication/341845193_Attribute-conditioned_Layout_GAN_for_Automatic_Graphic_Design) |  
+| Category, process, and recommendation of design in an interactive evolutionary computation interior design experiment: a data-driven study | Cambridge University Press 2020 | [paper](https://doi.org/10.1017/S0890060420000050) |  
 | Beauty in artistic expressions through the eyes of networks and physics | Journal of the Royal Society Interface  2020 | [paper](https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2019.0686) |  
 | Predicting A Creator's Preferences In, and From, Interactive Generative Art | Arxiv 2020 | [paper](https://arxiv.org/pdf/2003.01274.pdf) |  
 | Let Me Choose: From Verbal Context to Font Selection | ACL 2020 | [paper](https://arxiv.org/pdf/2005.01151.pdf) |  
 | ICONATE: Automatic Compound Icon Generation and Ideation | CHI 2020 | [paper](http://nxzhao.com/projects/ICONATE/) |
 | ManiGAN: Text-Guided Image | CVPR 2020 |  [paper](https://arxiv.org/abs/1912.06203), [code](https://github.com/mrlibw/ManiGAN) |  
+| Designing with AI for Digital Marketing | ACM UMAP 2020 | [paper](https://dl.acm.org/doi/10.1145/3386392.3397600) |
 | LayoutGAN: Generating Graphic Layouts with Wireframe Discriminators | ICLR 2019 |  [paper](https://arxiv.org/pdf/1901.06767.pdf), [code](https://github.com/billzhonggz/LayoutGAN) |  
 | Enabling Hyper-Personalisation: Automated Ad Creative Generation and Ranking for Fashion e-Commerce  | [recsysXfashion’19](https://zalandoresearch.github.io/fashionxrecsys/) | [paper](https://arxiv.org/pdf/1908.10139.pdf) |  
 | GANalyze: Toward Visual Definitions of Cognitive Image Properties | ICCV 2019 | [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Goetschalckx_GANalyze_Toward_Visual_Definitions_of_Cognitive_Image_Properties_ICCV_2019_paper.pdf), [code](https://github.com/LoreGoetschalckx/GANalyze) |  
@@ -47,10 +48,6 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 | [facet.ai](https://facet.ai/) | Facet is a content-aware image editor for crafting stunning visual stories. | 2017 | [blog](https://medium.com/facet-ai) |
 | [Inmagine](https://www.inmagine.com/) | Inmagine is a creative ecosystem encompassing various creative assets and business models. It is on a mission to make design easy for everyone by using artificial intelligence. [Design.ai](https://designs.ai/en) is one among its creative ecosystem who provide AI powered tools.  | 2001 | [news](https://www.techinasia.com/malaysian-husband-wife-bootstrapped-worlds-top-stock-image-players) |
 
-
-
-
-
 ## 📂 Projects
 
 | Name | Description | Links |  
@@ -58,14 +55,9 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 | [IBM Design for AI](https://www.ibm.com/design/ai/) | This is a online course offered by IBM to teach people or a team how to apply design thinking to artificial intelligence.  | [Links](https://www.ibm.com/design/ai/)|
 | ColorGram | colorgram.py is a Python library that lets you extract colors from images. Compared to other libraries, the colorgram algorithm's results are more intense. |  [repo](https://github.com/obskyr/colorgram.py) |  
 
-
-
-
 ## :orange_book: Books
 
 | Name | Authors | Year | Links |  
 | --- | --- | --- | --- |  
 | Know Your Onions: Graphic Design | Drew de Soto | 2014 |  [amazon](https://www.amazon.com/Know-Your-Onions-Creative-Businessman/dp/9063692587) |  
 | Grid systems in graphic design | Josef Müller-Brockmann | 1996 |  [amazon](https://www.amazon.com/Grid-systems-graphic-design-communication/dp/3721201450) |  
-
-
