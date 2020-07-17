@@ -25,6 +25,7 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 | Graphic Narrative with Interactive Stylization Design | Arxiv 2017 | [paper](https://arxiv.org/pdf/1712.06654.pdf) |  
 | Automatic Generation of Visual-Textual Presentation Layout | TOMM 2017 | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/a33-yang.pdf) |
 | Automatic Content-Aware Color and Tone Stylization | CVPR 2016 | [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lee_Automatic_Content-Aware_Color_CVPR_2016_paper.pdf), [code](https://github.com/jinyu121/ACACTS) |  
+| Automating Layouts Bring Flipboard’s Magazine Style To Web And Windows | TechCrunch 2014 | [paper](https://techcrunch.com/2014/03/23/layout-in-flipboard-for-web-and-windows/) |  
 | Automatic Design of Colors for Magazine Covers | Imaging and Printing in a Web 2.0 World IV 2013 | [paper](http://people.csail.mit.edu/jahanian/papers/Jahanian_ColorDesign_ADoMC_EI2013.pdf) |  
 
 ## 🎯 Datasets
