@@ -30,11 +30,12 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 
 ## 🎯 Datasets
 
-| Title | Description | Scale | Annotation | Year | Links |  
-| --- | --- | --- | --- | --- | --- |  
-| BAM! The Behance Artistic Media Dataset for Recognition Beyond Photography | 基于Behance图像的大规模当代艺术作品数据集 | 6,500,0000+ | Emotions, media, objects | 2017 | [paper](https://arxiv.org/pdf/1704.08614.pdf) [download](https://bam-dataset.org/) |  
-| Photo aesthetics ranking network with attributes and content adaptation | 大规模图像美学评价及属性数据集 | 10,000+ | Aesthetics, Attributes | 2016 | [paper](https://arxiv.org/pdf/1606.01621.pdf) [download](https://github.com/aimerykong/deepImageAestheticsAnalysis) |
-| AVA: A large-scale database for aesthetic visual analysis | 大规模图像美学数据集 | 250,000+ | Aesthetics, content, style | 2012 |  [paper](http://refbase.cvc.uab.es/files/MMP2012a.pdf) [download](https://github.com/mtobeiyf/ava_downloader) |  
+| Title | Scale | Annotation | Year | Links |  
+| --- | --- | --- | --- | --- |  
+| BAM! The Behance Artistic Media Dataset for Recognition Beyond Photography | 6,500,0000+ | Emotions, media, objects | 2017 | [paper](https://arxiv.org/pdf/1704.08614.pdf) [download](https://bam-dataset.org/) |  
+| Rico: A Mobile App Dataset for Building Data-Driven Design Applications | 9,3000+ Android App | UI metadata, layout, animations, Play Store metadata, screenshots with semantic annotations | 2017 | [paper](http://ranjithakumar.net/resources/rico.pdf) [download](http://interactionmining.org/rico) |
+| Photo aesthetics ranking network with attributes and content adaptation | 10,000+ | Aesthetics, Attributes | 2016 | [paper](https://arxiv.org/pdf/1606.01621.pdf) [download](https://github.com/aimerykong/deepImageAestheticsAnalysis) |
+| AVA: A large-scale database for aesthetic visual analysis | 250,000+ | Aesthetics, content, style | 2012 |  [paper](http://refbase.cvc.uab.es/files/MMP2012a.pdf) [download](https://github.com/mtobeiyf/ava_downloader) |  
 
 ## 🎈 Events
 
