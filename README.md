@@ -8,6 +8,7 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 
 | Title | Publication | Links |  
 | --- | --- | --- |  
+| Neural Design Network: Graphic Layout Generation with Constraints | ECCV 2020 | [paper](https://arxiv.org/pdf/1912.09421.pdf) |  
 | Bionic Face Sketch Generator | IEEE Transactions on Cybernetics 2020 | [paper](https://ieeexplore.ieee.org/document/8764602) |  
 | Attribute-conditioned Layout GAN for Automatic Graphic Design | IEEE Transactions on Visualization and Computer Graphics 2020 | [paper](https://www.researchgate.net/publication/341845193_Attribute-conditioned_Layout_GAN_for_Automatic_Graphic_Design) |  
 | Category, process, and recommendation of design in an interactive evolutionary computation interior design experiment: a data-driven study | Cambridge University Press 2020 | [paper](https://doi.org/10.1017/S0890060420000050) |  
@@ -16,7 +17,8 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 | Let Me Choose: From Verbal Context to Font Selection | ACL 2020 | [paper](https://arxiv.org/pdf/2005.01151.pdf) |  
 | ICONATE: Automatic Compound Icon Generation and Ideation | CHI 2020 | [paper](http://nxzhao.com/projects/ICONATE/) |
 | ManiGAN: Text-Guided Image | CVPR 2020 |  [paper](https://arxiv.org/abs/1912.06203), [code](https://github.com/mrlibw/ManiGAN) |  
-| Designing with AI for Digital Marketing | ACM UMAP 2020 | [paper](https://dl.acm.org/doi/10.1145/3386392.3397600) |
+| Designing with AI for Digital Marketing | ACM UMAP 2020 | [paper](https://dl.acm.org/doi/10.1145/3386392.3397600) |  
+| May AI?: Design Ideation with Cooperative Contextual Bandits | CHI 2019 | [paper](https://dl.acm.org/doi/10.1145/3290605.3300863) |
 | LayoutGAN: Generating Graphic Layouts with Wireframe Discriminators | ICLR 2019 |  [paper](https://arxiv.org/pdf/1901.06767.pdf), [code](https://github.com/billzhonggz/LayoutGAN) |  
 | Enabling Hyper-Personalisation: Automated Ad Creative Generation and Ranking for Fashion e-Commerce  | [recsysXfashion’19](https://zalandoresearch.github.io/fashionxrecsys/) | [paper](https://arxiv.org/pdf/1908.10139.pdf) |  
 | GANalyze: Toward Visual Definitions of Cognitive Image Properties | ICCV 2019 | [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Goetschalckx_GANalyze_Toward_Visual_Definitions_of_Cognitive_Image_Properties_ICCV_2019_paper.pdf), [code](https://github.com/LoreGoetschalckx/GANalyze) |  
@@ -41,6 +43,7 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 | Title | Links |
 | --- | --- |  
 | CVPR Workshop on Computer Vision for Fashion, Art and Design | [2020](https://sites.google.com/view/cvcreative2020), [2019](TBA)|  
+| NeurIPS Workshop on Machine Learning for Creativity and Design | [2019](https://neurips2019creativity.github.io/), [2018](https://nips2018creativity.github.io/), [2017](https://nips2017creativity.github.io/) |  
 
 ## 🏢 Companies
 
