@@ -1,5 +1,7 @@
 # About Design AI Resources
 
+![lisence](https://img.shields.io/github/license/tezignlab/design-ai-resources)
+
 Curated Design + AI resources such as papers, datasets, events, companies, etc. Papers and events are sorted by time (newest first).  
 
 See the [contribution guide](contribute-guide.md) if you want to add contents.
