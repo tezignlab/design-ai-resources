@@ -6,7 +6,7 @@ Curated Design + AI resources such as papers, datasets, events, companies, etc. 
 
 See the [contribution guide](contribute-guide.md) if you want to add contents.
 
-## 📃 Papers
+## :page_with_curl: Papers
 
 | Title | Publication | Links |  
 | --- | --- | --- |  
@@ -34,7 +34,7 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 | Automating Layouts Bring Flipboard’s Magazine Style To Web And Windows | TechCrunch 2014 | [paper](https://techcrunch.com/2014/03/23/layout-in-flipboard-for-web-and-windows/) |  
 | Automatic Design of Colors for Magazine Covers | Imaging and Printing in a Web 2.0 World IV 2013 | [paper](http://people.csail.mit.edu/jahanian/papers/Jahanian_ColorDesign_ADoMC_EI2013.pdf) |  
 
-## 🎯 Datasets
+## :dart: Datasets
 
 | Title | Scale | Annotation | Year | Links |  
 | --- | --- | --- | --- | --- |  
@@ -43,21 +43,21 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 | Photo aesthetics ranking network with attributes and content adaptation | 10,000+ | Aesthetics, Attributes | 2016 | [paper](https://arxiv.org/pdf/1606.01621.pdf) [download](https://github.com/aimerykong/deepImageAestheticsAnalysis) |
 | AVA: A large-scale database for aesthetic visual analysis | 250,000+ | Aesthetics, content, style | 2012 |  [paper](http://refbase.cvc.uab.es/files/MMP2012a.pdf) [download](https://github.com/mtobeiyf/ava_downloader) |  
 
-## 🎈 Events
+## :balloon: Events
 
 | Title | Links |
 | --- | --- |  
 | CVPR Workshop on Computer Vision for Fashion, Art and Design | [2020](https://sites.google.com/view/cvcreative2020), [2019](TBA)|  
 | NeurIPS Workshop on Machine Learning for Creativity and Design | [2019](https://neurips2019creativity.github.io/), [2018](https://nips2018creativity.github.io/), [2017](https://nips2017creativity.github.io/) |  
 
-## 🏢 Companies
+## :office: Companies
 
 | Name | Description | Found | Links |
 | --- | --- | --- | --- |
 | [facet.ai](https://facet.ai/) | Facet is a content-aware image editor for crafting stunning visual stories. | 2017 | [blog](https://medium.com/facet-ai) |
 | [Inmagine](https://www.inmagine.com/) | Inmagine is a creative ecosystem encompassing various creative assets and business models. It is on a mission to make design easy for everyone by using artificial intelligence. [Design.ai](https://designs.ai/en) is one among its creative ecosystem who provide AI powered tools.  | 2001 | [news](https://www.techinasia.com/malaysian-husband-wife-bootstrapped-worlds-top-stock-image-players) |
 
-## 📂 Projects
+## :open_file_folder: Projects
 
 | Name | Description | Links |  
 | --- | --- | --- |  
