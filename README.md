@@ -10,6 +10,7 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 
 | Title | Publication | Links |  
 | --- | --- | --- |  
+| Learning to Select Elements for Graphic Design | ICMR '20 | [paper](https://dl.acm.org/doi/abs/10.1145/3372278.3390678) |  
 | Artificial Intelligence in the Creative Industries: A Review | arXiv 2020 | [paper](https://arxiv.org/pdf/2007.12391.pdf) |  
 | Neural Design Network: Graphic Layout Generation with Constraints | ECCV 2020 | [paper](https://arxiv.org/pdf/1912.09421.pdf) |  
 | Bionic Face Sketch Generator | IEEE Transactions on Cybernetics 2020 | [paper](https://ieeexplore.ieee.org/document/8764602) |  
