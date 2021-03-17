@@ -10,6 +10,7 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 
 | Title | Publication | Links |  
 | --- | --- | --- |  
+| Learning to Select Elements for Graphic Design | ICMR '20 | [paper](https://dl.acm.org/doi/abs/10.1145/3372278.3390678) |  
 | Artificial Intelligence in the Creative Industries: A Review | arXiv 2020 | [paper](https://arxiv.org/pdf/2007.12391.pdf) |  
 | Neural Design Network: Graphic Layout Generation with Constraints | ECCV 2020 | [paper](https://arxiv.org/pdf/1912.09421.pdf) |  
 | Bionic Face Sketch Generator | IEEE Transactions on Cybernetics 2020 | [paper](https://ieeexplore.ieee.org/document/8764602) |  
@@ -31,6 +32,7 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 | Graphic Narrative with Interactive Stylization Design | arXiv 2017 | [paper](https://arxiv.org/pdf/1712.06654.pdf) |  
 | Automatic Generation of Visual-Textual Presentation Layout | TOMM 2017 | [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/a33-yang.pdf) |
 | Automatic Content-Aware Color and Tone Stylization | CVPR 2016 | [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lee_Automatic_Content-Aware_Color_CVPR_2016_paper.pdf), [code](https://github.com/jinyu121/ACACTS) |  
+| Learning Layouts for Single-Page Graphic Designs | TVCG 2014 | [paper](http://www.dgp.toronto.edu/~donovan/layout/designLayout.pdf) [material](http://www.dgp.toronto.edu/~donovan/layout/) |  
 | Automating Layouts Bring Flipboard’s Magazine Style To Web And Windows | TechCrunch 2014 | [paper](https://techcrunch.com/2014/03/23/layout-in-flipboard-for-web-and-windows/) |  
 | Automatic Design of Colors for Magazine Covers | Imaging and Printing in a Web 2.0 World IV 2013 | [paper](http://people.csail.mit.edu/jahanian/papers/Jahanian_ColorDesign_ADoMC_EI2013.pdf) |  
 
@@ -38,6 +40,7 @@ See the [contribution guide](contribute-guide.md) if you want to add contents.
 
 | Title | Scale | Annotation | Year | Links |  
 | --- | --- | --- | --- | --- |  
+| PubLayNet | over 1.1 million | layout | 2019 | [github](https://github.com/ibm-aur-nlp/PubLayNet) [paper](https://arxiv.org/abs/1908.07836) |  
 | BAM! The Behance Artistic Media Dataset for Recognition Beyond Photography | 6,500,0000+ | Emotions, media, objects | 2017 | [paper](https://arxiv.org/pdf/1704.08614.pdf) [download](https://bam-dataset.org/) |  
 | Rico: A Mobile App Dataset for Building Data-Driven Design Applications | 9,3000+ Android App | UI metadata, layout, animations, Play Store metadata, screenshots with semantic annotations | 2017 | [paper](http://ranjithakumar.net/resources/rico.pdf) [download](http://interactionmining.org/rico) |
 | Photo aesthetics ranking network with attributes and content adaptation | 10,000+ | Aesthetics, Attributes | 2016 | [paper](https://arxiv.org/pdf/1606.01621.pdf) [download](https://github.com/aimerykong/deepImageAestheticsAnalysis) |
